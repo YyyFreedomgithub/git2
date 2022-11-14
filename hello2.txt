@@ -1,2 +1,4 @@
 hello2hello2
 goodgoodgood
+
+nicenicenice:本地仓库添加nice
