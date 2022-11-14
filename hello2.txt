@@ -2,3 +2,6 @@ hello2hello2
 goodgoodgood
 
 nicenicenice:本地仓库添加nice
+
+Hello Hello:其他成员修改
+Nice:其他成员修改
